@@ -1,5 +1,6 @@
 //González Vera Bruno
 
+//aqui hay herencia y encapsulamiento 
 //clase hija
 
 public class Jugador1 extends Persona{

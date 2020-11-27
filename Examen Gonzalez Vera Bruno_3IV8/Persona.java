@@ -1,6 +1,9 @@
 
 
 //González Vera Bruno 3IV8
+
+//aqui hay herencia y encapsulamiento
+
 //clase padre persona
 
 public class Persona{

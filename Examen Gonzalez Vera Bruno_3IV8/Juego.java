@@ -1,6 +1,8 @@
 //González Vera Bruno 3IV8
 
 //importacion de librerias correspondientes y mas
+
+//aqui se separa el pregrama en diversos metodos
 import java.util.*;
 
 //clase juego
@@ -51,8 +53,10 @@ public class Juego{
 
             //System.out.println("Turno de "+obj2.getNombre());
     
+            System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+                    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
             do{
-                System.out.println("\n\n\n\n\n\n\n\n\nTienes "+inte+" intentos");
+                System.out.println("\n\n\nTienes "+inte+" intentos");
 
                 System.out.println(palabraGuiones);
 

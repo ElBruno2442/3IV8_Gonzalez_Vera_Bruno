@@ -1,6 +1,8 @@
 
 //González Vera Bruno 3IV8
 
+//aqui hay encapsulamiento y excepciones
+
 import java.util.Scanner;
 
 //clase datos

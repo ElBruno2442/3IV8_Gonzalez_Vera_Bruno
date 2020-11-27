@@ -1,6 +1,6 @@
 //González Vera Bruno 3IV8
 
-
+//el programa se divide en 6 clases distintas
 //clase principal
 public class Principal{
 
