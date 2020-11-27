@@ -52,6 +52,7 @@ public class Datos{
             edad = entrada.nextInt();
             obj1.setEdad(edad);
 
+
         }catch (Exception e) {
                 System.out.println("Ingresa solo valores enteros");
                 System.out.println("Error: "+ e.getMessage());
@@ -63,11 +64,13 @@ public class Datos{
             System.out.println("Ingresa la edad de "+obj2.getNombre());
             edad = entrada.nextInt();
             obj2.setEdad(edad);
+            break;
             
         }catch (Exception e) {
                     System.out.println("Ingresa solo valores enteros");
                     System.out.println("Error: "+ e.getMessage());
                     System.exit(0);
+
             }
         }
     }

@@ -16,6 +16,8 @@ public class Jugador1 extends Persona{
         super(nombre, edad);
 
         //acceso a la variable propia de la clase
+        
+        //esto fue lo que se me olvido ponerlo con diagonales:
         //this.intentos = intentos;
     }
 
