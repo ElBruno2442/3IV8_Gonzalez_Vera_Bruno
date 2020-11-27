@@ -64,7 +64,7 @@ public class Juego{
                 for(int i = 0; i<palabra.length(); i++){
                     if(palabra.charAt(i) == letra){
                         palabraGuiones[i] = letra;
-                        System.out.println("Has acertado!!!")
+                        System.out.println("Has acertado!!!");
                         letraAcertada = true;
                     }
                 }
