@@ -16,7 +16,7 @@ public class Jugador1 extends Persona{
         super(nombre, edad);
 
         //acceso a la variable propia de la clase
-        this.intentos = intentos;
+        //this.intentos = intentos;
     }
 
     //metodos get y set para establecer y obtener
