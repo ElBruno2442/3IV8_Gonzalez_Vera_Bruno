@@ -52,7 +52,7 @@ public class Juego{
             //System.out.println("Turno de "+obj2.getNombre());
     
             do{
-                System.out.println("Tienes "+inte+" intentos");
+                System.out.println("\n\n\n\n\n\n\n\n\nTienes "+inte+" intentos");
 
                 System.out.println(palabraGuiones);
 
